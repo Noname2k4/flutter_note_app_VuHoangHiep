@@ -23,52 +23,54 @@
 
 ## 🖼️ Giao diện ứng dụng
 
-<p align="center"><b>Trang chủ</b></p>
-<p align="center">
-  <img src="screenshots/2.png" width="250"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <span style="font-size:16px;"><b>Trang chủ</b><br/>
+      <img src="screenshots/2.png" width="180"/>
+    </td>
+    <td align="center">
+      <span style="font-size:16px;"><b>Tạo ghi chú mới</b><br/>
+      <img src="screenshots/1.png" width="180"/>
+    </td>
+  </tr>
 
 ---
-<p align="center"><b>Tạo ghi chú mới</b></p>
-<p align="center">
-  <img src="screenshots/1.png" width="250"/>
-</p>
+  <tr>
+    <td align="center">
+      <span style="font-size:16px;"><b>Lọc ghi chú mức thấp</b><br/>
+      <img src="screenshots/3.png" width="180"/>
+    </td>
+    <td align="center">
+      <span style="font-size:16px;"><b>Lọc ghi chú mức trung bình</b><br/>
+      <img src="screenshots/4.png" width="180"/>
+    </td>
+  </tr>
 
 ---
-<p align="center"><b>Lọc ghi chú theo mức ưu tiên thấp</b></p>
-<p align="center">
-  <img src="screenshots/3.png" width="250"/>
-</p>
+  <tr>
+    <td align="center">
+      <span style="font-size:16px;"><b>Lọc ghi chú mức cao</b><br/>
+      <img src="screenshots/5.png" width="180"/>
+    </td>
+    <td align="center">
+      <span style="font-size:16px;"><b>Tìm kiếm ghi chú</b><br/>
+      <img src="screenshots/6.png" width="180"/>
+    </td>
+  </tr>
 
 ---
-<p align="center"><b>Lọc ghi chú theo mức ưu tiên trung bình</b></p>
-<p align="center">
-  <img src="screenshots/4.png" width="250"/>
-</p>
-
----
-<p align="center"><b>Lọc ghi chú theo mức ưu tiên cao</b></p>
-<p align="center">
-  <img src="screenshots/5.png" width="250"/>
-</p>
-
----
-<p align="center"><b>Tìm kiếm ghi chú</b></p>
-<p align="center">
-  <img src="screenshots/6.png" width="250"/>
-</p>
-
----
-<p align="center"><b>Chỉnh sửa ghi chú</b></p>
-<p align="center">
-  <img src="screenshots/8.png" width="250"/>
-</p>
-
----
-<p align="center"><b>Xoá ghi chú</b></p>
-<p align="center">
-  <img src="screenshots/7.png" width="250"/>
-</p>
+  <tr>
+    <td align="center">
+      <span style="font-size:16px;"><b>Chỉnh sửa ghi chú</b><br/>
+      <img src="screenshots/8.png" width="180"/>
+    </td>
+    <td align="center">
+      <span style="font-size:16px;"><b>Xoá ghi chú</b><br/>
+      <img src="screenshots/7.png" width="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
