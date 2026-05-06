@@ -23,47 +23,47 @@
 
 ## 🖼️ Giao diện ứng dụng
 
-<table width="100%">
+<table align="center" cellpadding="10" cellspacing="10">
   <tr>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Trang chủ</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Trang chủ</span><br/>
       <img src="screenshots/2.png" width="180"/>
     </td>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Tạo ghi chú mới</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Tạo ghi chú mới</span><br/>
       <img src="screenshots/1.png" width="180"/>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Mức thấp</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Mức thấp</span><br/>
       <img src="screenshots/3.png" width="180"/>
     </td>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Mức trung bình</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Mức trung bình</span><br/>
       <img src="screenshots/4.png" width="180"/>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Mức cao</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Mức cao</span><br/>
       <img src="screenshots/5.png" width="180"/>
     </td>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Tìm kiếm</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Tìm kiếm</span><br/>
       <img src="screenshots/6.png" width="180"/>
     </td>
   </tr>
 
   <tr>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Chỉnh sửa</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Chỉnh sửa</span><br/>
       <img src="screenshots/8.png" width="180"/>
     </td>
-    <td width="50%" align="center">
-      <span style="font-size:16px; font-weight:600;">Xoá ghi chú</span><br/><br/>
+    <td align="center" style="padding:10px;">
+      <span style="font-size:16px; font-weight:600;">Xoá ghi chú</span><br/>
       <img src="screenshots/7.png" width="180"/>
     </td>
   </tr>
