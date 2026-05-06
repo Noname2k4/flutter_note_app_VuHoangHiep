@@ -23,20 +23,52 @@
 
 ## 🖼️ Giao diện ứng dụng
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshots/1.png" width="150"/></td>
-      <td><img src="screenshots/2.png" width="150"/></td>
-      <td><img src="screenshots/3.png" width="150"/></td>
-    </tr>
-    <tr>
-      <td><img src="screenshots/4.png" width="150"/></td>
-      <td><img src="screenshots/5.png" width="150"/></td>
-      <td><img src="screenshots/6.png" width="150"/></td>
-    </tr>
-  </table>
-</div>
+<p align="center"><b>Trang chủ</b></p>
+<p align="center">
+  <img src="screenshots/2.png" width="250"/>
+</p>
+
+---
+<p align="center"><b>Tạo ghi chú mới</b></p>
+<p align="center">
+  <img src="screenshots/1.png" width="250"/>
+</p>
+
+---
+<p align="center"><b>Lọc ghi chú theo mức ưu tiên thấp</b></p>
+<p align="center">
+  <img src="screenshots/3.png" width="250"/>
+</p>
+
+---
+<p align="center"><b>Lọc ghi chú theo mức ưu tiên trung bình</b></p>
+<p align="center">
+  <img src="screenshots/4.png" width="250"/>
+</p>
+
+---
+<p align="center"><b>Lọc ghi chú theo mức ưu tiên cao</b></p>
+<p align="center">
+  <img src="screenshots/5.png" width="250"/>
+</p>
+
+---
+<p align="center"><b>Tìm kiếm ghi chú</b></p>
+<p align="center">
+  <img src="screenshots/6.png" width="250"/>
+</p>
+
+---
+<p align="center"><b>Chỉnh sửa ghi chú</b></p>
+<p align="center">
+  <img src="screenshots/8.png" width="250"/>
+</p>
+
+---
+<p align="center"><b>Xoá ghi chú</b></p>
+<p align="center">
+  <img src="screenshots/7.png" width="250"/>
+</p>
 
 ---
 
