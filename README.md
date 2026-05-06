@@ -33,9 +33,6 @@
       <span style="font-size:16px; font-weight:600;">Tạo ghi chú mới</span><br/>
       <img src="screenshots/1.png" width="180"/>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" style="padding:10px;">
       <span style="font-size:16px; font-weight:600;">Mức thấp</span><br/>
       <img src="screenshots/3.png" width="180"/>
@@ -55,9 +52,6 @@
       <span style="font-size:16px; font-weight:600;">Tìm kiếm</span><br/>
       <img src="screenshots/6.png" width="180"/>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" style="padding:10px;">
       <span style="font-size:16px; font-weight:600;">Chỉnh sửa</span><br/>
       <img src="screenshots/8.png" width="180"/>
