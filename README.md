@@ -88,9 +88,6 @@ lib/
 │   ├── home_page.dart
 │   └── note_editor_screen.dart
 │
-├── widgets/
-│   └── note_card.dart
-│
 └── main.dart
 ```
 
